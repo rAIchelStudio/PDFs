@@ -1,0 +1,61 @@
+%!Adobe-FontList 1.25
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/geoffrey.silvis/Library/CloudStorage/OneDrive-SharedLibraries-ResonateNetworksInc/Content Marketing - Design/Brand/2026/2026 Financial Marketer’s Playbook.pdf/Document fonts/AdobeFnt25.lst
+FileLength:1825
+FileModTime:800379042
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NeueHaasDisplay-Mediu
+FamilyName:Neue Haas Grotesk Display Pro
+StyleName:65 Medium
+MenuName:Neue Haas Grotesk Display Pro
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:NeueHaasDisplay-Mediu
+WritingScript:Roman
+OutlineFileName:/Users/geoffrey.silvis/Library/CloudStorage/OneDrive-SharedLibraries-ResonateNetworksInc/Content Marketing - Design/Brand/2026/2026 Financial Marketer’s Playbook.pdf/Document fonts/NeueHaasDisplayMediu.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:101948
+FileModTime:753936600
+NameArray:0,Mac,4,NeueHaasDisplay-Mediu
+NameArray:0,Win,1,Neue Haas Grotesk Display Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NeueHaasDisplay-Roman
+FamilyName:Neue Haas Grotesk Display Pro
+StyleName:55 Roman
+MenuName:Neue Haas Grotesk Display Pro
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:NeueHaasDisplay-Roman
+WritingScript:Roman
+OutlineFileName:/Users/geoffrey.silvis/Library/CloudStorage/OneDrive-SharedLibraries-ResonateNetworksInc/Content Marketing - Design/Brand/2026/2026 Financial Marketer’s Playbook.pdf/Document fonts/NeueHaasDisplayRoman.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:100400
+FileModTime:753936600
+NameArray:0,Mac,4,NeueHaasDisplay-Roman
+NameArray:0,Win,1,Neue Haas Grotesk Display Pro
+%EndFont
+
